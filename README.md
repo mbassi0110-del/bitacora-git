@@ -1,1 +1,1 @@
-"#bitacora de tareas "
+"#bitacora simple" 
